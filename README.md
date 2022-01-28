@@ -6,7 +6,18 @@
 - Moreover, I like to spend time on programming, namely, not just on memorizing various programming languages, but on learning the correct application of algorithms, through the implementation of various projects. I've already developed private websites, my own Android apps, and I'm not going to stop there.
  ###### But still sometimes I like to make a couple of beautiful frames that you can find in my [Instagram](https://www.instagram.com/_b0gda_/). ######
 ---
-## Languages ##
-- 🌱  I’m currently learning React(JavaScript library), Node.js, Kotlin(in the future to get away from writing mobile applications in Java)
+## Professional experience ##
+- Collaborated with back-end developers and clients to meet projects requirements, goals and desired functionality. Website development for republican needs. Developed websites from front to backend using JavaScript and HTML/CSS. 
+- What about my Soft Skills:  
+1. Communication 
+1. Efficiency
+1. Work Ethic
+1. Self Motivation
+1. Attention to Detail
+1. Efficiency 
+1. Problem Solving
+---
+## Plans ##
+- 🌱  To learn React(JavaScript library), Node.js, Kotlin(in the future to get away from writing mobile applications in Java)
 ---
 
