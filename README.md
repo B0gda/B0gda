@@ -1,5 +1,5 @@
 # 𝔻𝕠𝕟’𝕥 𝕙𝕒𝕧𝕖 𝕒 𝕘𝕠𝕠𝕕 𝕕𝕒𝕪, 𝕙𝕒𝕧𝕖 𝕒 𝕘𝕣𝕖𝕒𝕥 𝕕𝕒𝕪. #
-- 😸 Hi, I’m @B0gda(and as for my real name - I'm Bogdan). I am glad to welcome you to my project repository (I hope you will find and discover something new😇).  
+- 😸 Hi, I’m @B0gda. I am glad to welcome you to my project repository (I hope you will find and discover something new😇).  
 ---
 ## About ##
 - 👀 I’m interested in ... creating beautiful frames on camera. Of course no :) For the most part, I am an Front-End Developer with 2+ years of experience. Skilled in Photoshop, Canva and JavaScript.
