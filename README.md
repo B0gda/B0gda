@@ -7,8 +7,8 @@
 ---
 ## About ##
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-- 👀 I’m interested in ... creating beautiful frames on camera. Of course no :) For the most part, I am an Front-End Developer with 2+ years of experience. Skilled in Photoshop, Canva and JavaScript.
-- Moreover, I like to spend time on programming, namely, not just on memorizing various programming languages, but on learning the correct application of algorithms, through the implementation of various projects. I've already developed private websites, my own Android apps, and I'm not going to stop there.
+- 👀 A results-driven Front-End Developer with five years of experience, specializing in UI design,    web development, project management, and Java. A proven track record of collaborating cross-functionally with technical teams and stakeholders across all phases of the software development lifecycle. Adept at performing quality assurance testing for web applications.
+
  ###### But still sometimes I like to make a couple of beautiful frames that you can find in my [Instagram](https://www.instagram.com/_b0gda_/). ######
 ---
 
