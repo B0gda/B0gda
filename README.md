@@ -30,7 +30,7 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=B0gda&icon=3&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=B0gda&icon=3&color=12)](https://github.com/B0gda)
 
   ## 💰 You can help me by Donating(but later:))
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](#) 
