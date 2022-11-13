@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-# 𝔻𝕠𝕟’𝕥 𝕙𝕒𝕧𝕖 𝕒 𝕘𝕠𝕠𝕕 𝕕𝕒𝕪, 𝕙𝕒𝕧𝕖 𝕒 𝕘𝕣𝕖𝕒𝕥 𝕕𝕒𝕪. #
+
 - 😸 Hi, I’m @B0gda. I am glad to welcome you to my project repository (I hope you will find and discover something new😇).  
 ---
 ## About ##
