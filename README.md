@@ -13,7 +13,7 @@
 ---
 
 ## Plans ##
-- 🌱 Kotlin(in the future to get away from writing mobile applications in Java)
+- 🌱 Kotlin (in the future to get away from writing mobile applications in Java)
 ---
 
 
