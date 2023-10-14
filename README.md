@@ -29,8 +29,13 @@
 ---
 
 
-  ## 💰 You can help me by Donating(but later:))
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](#) 
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](#)
   
+  // Will be later :^)
+  
+  [![Ethereum](https://img.shields.io/badge/Ethereum-4cbb17?style=for-the-badge&logoColor=white)](#)
+  
+  0x95B04c96308855056138874ca3c1008f22D4F6B4
 
 
