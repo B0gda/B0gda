@@ -5,6 +5,13 @@
 
 - 😸 Hi, I’m @B0gda. I am glad to welcome you to my project repository (I hope you will find and discover something new😇).  
 ---
+
+## My CV ##
+
+☞ [Site](https://b0gda.github.io/) ☚
+
+---
+
 ## About ##
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 - 👀 A results-driven Front-End Developer with five years of experience, specializing in UI design, web development with JavaScript and project management. A proven track record of collaborating cross-functionally with technical teams and stakeholders across all phases of the software development lifecycle. Adept at studying quality assurance testing for web applications.
